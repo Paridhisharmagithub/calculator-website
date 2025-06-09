@@ -17,4 +17,11 @@ A simple and responsive calculator web app built using **HTML, CSS, and JavaScri
 
 ## 📂 Project Structure
 
-<pre> ```plaintext calculator-website/ ├── index.html # Main HTML file that structures the calculator UI ├── style.css # Stylesheet containing layout and design styles ├── script.js # JavaScript logic for handling calculator operations └── README.md # Project documentation with features and usage info ``` </pre>
+```plaintext
+calculator-website/
+├── index.html     # Main HTML file that structures the calculator UI  
+├── style.css      # Stylesheet containing layout and design styles  
+├── script.js      # JavaScript logic for handling calculator operations  
+└── README.md      # Project documentation with features and usage info  
+```
+
